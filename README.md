@@ -19,3 +19,9 @@ To update model parameter
 `optimizer.step(total_batches)` where total_batches is the current batch number.
 
 ## Citation:
+@article{yue2020rnn,
+  title={RNN Training along Locally Optimal Trajectoriesvia Frank-Wolfe Algorithm},
+  author={Yue, Yun and Li, Ming and Saligrama, Venkatesh and Zhang, Ziming},
+  journal={arXiv preprint arXiv:2010.05397},
+  year={2020}
+}
